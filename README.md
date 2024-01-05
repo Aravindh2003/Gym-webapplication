@@ -14,7 +14,7 @@ You can view a live demo of the website [https://aravindh2003.github.io/Gym-weba
 To run the website locally, you need to clone this repo and open the index.html file in your browser. Alternatively, you can use a local web server such as [Live Server] for VS Code.
 
 # Credits
-This website was created by webwithaman (Aman) as a personal project. The images, icons and fonts used in this website are from the following sources:
+This website was created by webwitharavindh (Aravindh) as a personal project. The images, icons and fonts used in this website are from the following sources:
 
 Images: [Unsplash], [Pexels] and [Pixabay]
 Icons: [Font Awesome]
