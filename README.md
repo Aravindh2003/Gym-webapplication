@@ -8,7 +8,7 @@ Modern and attractive layout with animations and transitions
 Contact details for validation and feedback
 
 Demo
-You can view a live demo of the website .
+You can view a live demo of the website [https://aravindh2003.github.io/Gym-webapplication/].
 
 Installation
 To run the website locally, you need to clone this repo and open the index.html file in your browser. Alternatively, you can use a local web server such as [Live Server] for VS Code.
